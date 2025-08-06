@@ -1,0 +1,5 @@
+int32[] lidar_readings
+int32 robot_id
+---
+int32 obstacle_count
+int32 robot_id
