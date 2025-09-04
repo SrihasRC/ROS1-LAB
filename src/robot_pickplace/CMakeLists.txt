@@ -107,7 +107,7 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES robot_pickplace
- CATKIN_DEPENDS actionlib actionlib_msgs message_generation rospy std_msgs message_runtime
+ CATKIN_DEPENDS actionlib actionlib_msgs rospy std_msgs message_runtime
 #  DEPENDS system_lib
 )
 
